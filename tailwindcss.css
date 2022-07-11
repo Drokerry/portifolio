@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-size: 17px;
+  }
+  
+  .circulo {
+    background: linear-gradient(125.66deg, #f8834b 15.68%, #ee5463 85.62%);
+    box-shadow: 0px 16px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 290.5px;
+  }
+  
+  .button {
+    height: 66px;
+    width: 248px;
+    left: 72px;
+    top: 272px;
+    padding: 24px, 32px, 24px, 32px;
+  
+    color: #ffffff;
+  
+    background: #f8834b;
+    /* Sombra / Botão */
+  
+    box-shadow: 0px 16px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 32px;
+  }
+  
+  .girl {
+    background: url('./img/happy-lady-beige-suit-poses-with-phone-pink-background-joyful-girl-office-dress-with-red-lips-holds-smartphone\ 3.png');
+    background-size: cover;
+  }
+
+.redes-sociais {
+    background: #f8834b;
+}
